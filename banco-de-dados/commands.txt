@@ -1,0 +1,2 @@
+conectar container
+docker exec -it devbook_db mysql -u devbook -p
